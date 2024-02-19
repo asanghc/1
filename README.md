@@ -1,5 +1,9 @@
 https://github.com/ImranR98/Obtainium/releases
 
+https://f-droid.org/packages/de.spiritcroc.riotx
+
+https://apkcombo.com/here-wego/com.here.app.maps
+
 https://github.com/TrackerControl/tracker-control-android
 
 https://github.com/InfinityLoop1308/PipePipe
